@@ -2,6 +2,8 @@ package com.devsuperior.dslist.dto;
 
 import com.devsuperior.dslist.entities.Game;
 
+//Camada DTO serve para personalizar a representação dos dados (ou seja, mostrar apenas os atributos relevantes)
+
 public class GameMinDTO {
 
 	private Long id;
