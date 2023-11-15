@@ -29,7 +29,8 @@ public class GameDTO {
 		(.....)
 		*/
 	}
-
+	
+	//Getters (os setters foram implementados apenas devido ao uso da função BeanUtils no construtor. Caso contrário só precisaria dos getters)
 	public Long getId() {
 		return id;
 	}
